@@ -1,12 +1,12 @@
 # Camping items
 
-## Cooking:
+## Cooking Supplies:
 
 * Big knife
 * Little knife
 * Fork
 * Spoon
-* Cooking oil
+* Cutting board
 * Wooden spoon
 * Alum foil
 * Fire starter
@@ -20,10 +20,15 @@
 * Paper towels
 * Cooler
 * Stove and/or jetboil
-* 2 gas cans
-* 2 candles
+* Gas cans
+* Candles
+* Small storage containers for food
 * Water bottle
-* Salts
+* Cooking Oil
+* Salts / Spices
+* Instant Coffee / Sugar
+
+
 
 ## Sleeping, Clothing, Etc..
 * Chapstick
@@ -35,3 +40,4 @@
 * Tent
 * Lantern / batteries
 * Battery pack
+* Headlamp / batteries
